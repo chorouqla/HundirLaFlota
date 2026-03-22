@@ -1,0 +1,4 @@
+C:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\HundirLaFlota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\HundirLaFlota.AssemblyInfoInputs.cache
+C:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\HundirLaFlota.AssemblyInfo.cs
+C:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\HundirLaFlota.csproj.CoreCompileInputs.cache
