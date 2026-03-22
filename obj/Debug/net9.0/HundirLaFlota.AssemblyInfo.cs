@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HundirLaFlota")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a02cbfe30b08bdaa28e2b9594e23c03c1c21e481")]
 [assembly: System.Reflection.AssemblyProductAttribute("HundirLaFlota")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HundirLaFlota")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
