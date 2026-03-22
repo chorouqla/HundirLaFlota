@@ -1,18 +1,19 @@
 using System;
 
-public static class Flota //porque static
-{
-    public static List<Barco> CrearFlota()
+    public static class Flota //porque static
     {
-        List<Barco> barcos = new List<Barco>(); //explicame cada elemento
+        public static List<Barco> CrearFlota()
+        {
+            return new List<Barco>
+            {
 
-        barcos.Add(new Barco("Portaaviones", 5, "🚢"));
-        barcos.Add(new Barco("Acorazado", 4, "🚤"));
-        barcos.Add(new Barco("Portaaviones", 3, "⛴️"));
-        barcos.Add(new Barco("Portaaviones", 3, "🛸"));
-        barcos.Add(new Barco("Portaaviones", 2, "🚣"));
+            new Barco("Portaaviones", 5, "🚢"),
+            new Barco("Acorazado", 4, "🚤"),
+            new Barco("Portaaviones", 3, "⛴️"),
+            new Barco("Portaaviones", 3, "🛸"),
+            new Barco("Portaaviones", 2, "🚣")
 
-        return barcos;
+            };
 
+        }
     }
-}

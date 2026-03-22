@@ -2,3 +2,14 @@ C:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\HundirLaFl
 C:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\HundirLaFlota.AssemblyInfoInputs.cache
 C:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\HundirLaFlota.AssemblyInfo.cs
 C:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\HundirLaFlota.csproj.CoreCompileInputs.cache
+c:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\bin\Debug\net9.0\HundirLaFlota.exe
+C:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\bin\Debug\net9.0\HundirLaFlota.deps.json
+C:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\bin\Debug\net9.0\HundirLaFlota.runtimeconfig.json
+c:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\bin\Debug\net9.0\HundirLaFlota.dll
+c:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\bin\Debug\net9.0\HundirLaFlota.pdb
+c:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\HundirLaFlota.sourcelink.json
+c:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\HundirLaFlota.dll
+c:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\refint\HundirLaFlota.dll
+c:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\HundirLaFlota.pdb
+C:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\HundirLaFlota.genruntimeconfig.cache
+C:\Users\Best Hp\Desktop\programacio.M\HundirLaFlota\obj\Debug\net9.0\ref\HundirLaFlota.dll
